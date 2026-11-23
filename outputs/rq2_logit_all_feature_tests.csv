@@ -1,0 +1,46 @@
+Item,Feature,n agree,n disagree,LR chi2,df,LR test p
+P1_3,Gender,42,35,0.4175,1,0.5182
+P1_3,Mentor status,27,27,0.297,1,0.5858
+P1_3,Age band,42,35,2.2087,4,0.6974
+P1_3,Years since PhD,42,35,4.9037,5,0.4277
+P1_3,Institution type,42,35,3.2425,2,0.1976
+P1_3,Research mode,42,35,5.2431,3,0.1548
+P1_3,Subfield,42,35,1.2474,3,0.7417
+P1_3,Collaboration size,42,33,0.0952,2,0.9535
+P1_3,Region of employment,39,35,2.9125,2,0.2331
+P1_3,AI usage status,38,32,9.506,2,0.0086
+P1_3,Prior ML use,42,35,0.0069,1,0.9336
+P1_3,Students use AI,39,33,0.1012,1,0.7504
+P1_3,Institution AI policy,42,35,0.5368,2,0.7646
+P1_3,Asks to disclose AI,39,33,0.1115,2,0.9458
+P1_3,Asks to restrict AI,42,35,7.8262,2,0.02
+Q80,Gender,54,41,0.0125,1,0.911
+Q80,Mentor status,38,27,2.4082,1,0.1207
+Q80,Age band,54,41,3.03,4,0.5528
+Q80,Years since PhD,53,41,3.4027,5,0.6382
+Q80,Institution type,54,41,4.0384,2,0.1328
+Q80,Research mode,53,41,1.9707,3,0.5785
+Q80,Subfield,53,41,1.3617,3,0.7145
+Q80,Collaboration size,52,40,0.4413,2,0.802
+Q80,Region of employment,54,39,3.9848,2,0.1364
+Q80,AI usage status,49,37,0.2845,2,0.8674
+Q80,Prior ML use,53,41,1.2582,1,0.262
+Q80,Students use AI,52,38,0.0027,1,0.9583
+Q80,Institution AI policy,52,41,3.5644,2,0.1683
+Q80,Asks to disclose AI,49,36,0.271,2,0.8733
+Q80,Asks to restrict AI,52,41,0.4668,2,0.7919
+P3_10,Gender,56,36,0.0405,1,0.8406
+P3_10,Mentor status,36,34,0.0858,1,0.7695
+P3_10,Age band,56,36,16.8415,4,0.0021
+P3_10,Years since PhD,56,36,10.6993,5,0.0577
+P3_10,Institution type,56,36,0.2856,2,0.8669
+P3_10,Research mode,56,36,2.432,3,0.4877
+P3_10,Subfield,56,36,3.6606,3,0.3005
+P3_10,Collaboration size,55,35,3.7382,2,0.1543
+P3_10,Region of employment,52,36,4.2243,2,0.121
+P3_10,AI usage status,47,36,0.8967,2,0.6387
+P3_10,Prior ML use,56,36,1.21,1,0.2713
+P3_10,Students use AI,53,34,0.1285,1,0.72
+P3_10,Institution AI policy,56,36,3.9073,2,0.1418
+P3_10,Asks to disclose AI,51,32,5.4913,2,0.0642
+P3_10,Asks to restrict AI,56,36,17.6502,2,0.0001

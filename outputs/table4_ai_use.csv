@@ -1,0 +1,50 @@
+Characteristic,n answered,Category,n,%
+Has used generative-AI tools for work,122,Yes,112,91.8
+Has used generative-AI tools for work,122,No,10,8.2
+Frequency of generative-AI use,122,Daily,79,64.8
+Frequency of generative-AI use,122,Several times a week,26,21.3
+Frequency of generative-AI use,122,About weekly,3,2.5
+Frequency of generative-AI use,122,Rarely or do not use AI,14,11.5
+When first started using generative AI,122,Within the past 6 months,27,22.1
+When first started using generative AI,122,6-12 months ago,41,33.6
+When first started using generative AI,122,1-2 years ago,36,29.5
+When first started using generative AI,122,More than 2 years ago,18,14.8
+Tools used (select all that apply),118,ChatGPT (OpenAI),86,72.9
+Tools used (select all that apply),118,Claude (Anthropic),85,72.0
+Tools used (select all that apply),118,Gemini (Google),22,18.6
+Tools used (select all that apply),118,GitHub Copilot or similar,25,21.2
+Tools used (select all that apply),118,Other,15,12.7
+Tasks AI is used for (select all that apply),125,Editing or improving language,102,81.6
+Tasks AI is used for (select all that apply),125,Writing or debugging code,90,72.0
+Tasks AI is used for (select all that apply),125,Literature search / summarising papers,85,68.0
+Tasks AI is used for (select all that apply),125,Brainstorming / refining ideas,80,64.0
+Tasks AI is used for (select all that apply),125,Learning a new field,74,59.2
+Tasks AI is used for (select all that apply),125,Drafting grants or manuscripts,71,56.8
+Tasks AI is used for (select all that apply),125,Data analysis,44,35.2
+Tasks AI is used for (select all that apply),125,Administration and email,35,28.0
+Tasks AI is used for (select all that apply),125,Preparing teaching materials,34,27.2
+Tasks AI is used for (select all that apply),125,Marking / feedback on student work,8,6.4
+Tasks AI is used for (select all that apply),125,Other,7,5.6
+Self-rated generative-AI proficiency,122,Expert,3,2.5
+Self-rated generative-AI proficiency,122,Advanced,52,42.6
+Self-rated generative-AI proficiency,122,Intermediate,32,26.2
+Self-rated generative-AI proficiency,122,Beginner,29,23.8
+Self-rated generative-AI proficiency,122,No experience,6,4.9
+Used machine learning or data science methods before generative AI,122,Yes,58,47.5
+Used machine learning or data science methods before generative AI,122,No,64,52.5
+Who pays for the AI tools,110,Institution / research funding,29,26.4
+Who pays for the AI tools,110,Pay myself,54,49.1
+Who pays for the AI tools,110,Mix of personal and institutional,27,24.5
+Students / junior researchers use generative AI,122,Most of them,96,78.7
+Students / junior researchers use generative AI,122,Some of them,19,15.6
+Students / junior researchers use generative AI,122,I do not know,7,5.7
+Institution has a generative-AI policy,115,Yes,47,40.9
+Institution has a generative-AI policy,115,No,29,25.2
+Institution has a generative-AI policy,115,I do not know,39,33.9
+Asks students to disclose AI use,115,Always,34,29.6
+Asks students to disclose AI use,115,Sometimes,9,7.8
+Asks students to disclose AI use,115,Never,11,9.6
+Asks students to disclose AI use,115,Not applicable - I do not assess student work,61,53.0
+Asks students to restrict AI use,115,Sometimes,37,32.2
+Asks students to restrict AI use,115,Never,32,27.8
+Asks students to restrict AI use,115,Not applicable - I do not mentor student work,46,40.0

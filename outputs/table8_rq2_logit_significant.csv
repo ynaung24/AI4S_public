@@ -1,0 +1,15 @@
+Item,Survey item,Feature,Level,n,% agree,beta,SE,OR,CI low,CI high,p,LR test p
+P1_3,"As AI advances, the most important role of physicists will be to determine how to direct and use AI.",AI usage status,Low (ref),30,50.0,,,1.0,,,,0.009
+P1_3,"As AI advances, the most important role of physicists will be to determine how to direct and use AI.",AI usage status,Medium,25,40.0,-0.405,0.548,0.667,0.228,1.95,0.459,0.009
+P1_3,"As AI advances, the most important role of physicists will be to determine how to direct and use AI.",AI usage status,High,15,86.667,1.872,0.843,6.5,1.246,33.906,0.026,0.009
+P1_3,"As AI advances, the most important role of physicists will be to determine how to direct and use AI.",Asks to restrict AI,Never (ref),25,68.0,,,1.0,,,,0.02
+P1_3,"As AI advances, the most important role of physicists will be to determine how to direct and use AI.",Asks to restrict AI,Sometimes,25,32.0,-1.508,0.606,0.221,0.067,0.727,0.013,0.02
+P1_3,"As AI advances, the most important role of physicists will be to determine how to direct and use AI.",Asks to restrict AI,Not applicable,27,62.963,-0.223,0.585,0.8,0.254,2.52,0.703,0.02
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Age band,Under 35 (ref),35,74.286,,,1.0,,,,0.002
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Age band,35–44,18,61.111,-0.609,0.619,0.544,0.162,1.831,0.325,0.002
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Age band,45–54,15,46.667,-1.194,0.646,0.303,0.085,1.075,0.065,0.002
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Age band,55–64,12,16.667,-2.67,0.866,0.069,0.013,0.378,0.002,0.002
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Age band,65 or over,12,83.333,0.549,0.866,1.731,0.317,9.445,0.526,0.002
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Asks to restrict AI,Never (ref),26,26.923,,,1.0,,,,0.0
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Asks to restrict AI,Sometimes,29,72.414,1.964,0.607,7.125,2.169,23.4,0.001,0.0
+P3_10,Students should be prevented from using AI until they have learned the fundamentals.,Asks to restrict AI,Not applicable,37,75.676,2.134,0.585,8.444,2.683,26.582,0.0,0.0

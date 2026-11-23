@@ -1,0 +1,45 @@
+Characteristic,n answered,Category,n,%
+Holds a PhD in physics or a closely related field,125,Yes,94,75.2
+Holds a PhD in physics or a closely related field,125,No,31,24.8
+Employed full-time in a research or faculty role,125,Yes,106,84.8
+Employed full-time in a research or faculty role,125,No,19,15.2
+Current position,125,Postdoc / research fellow,26,20.8
+Current position,125,Doctoral / Master's student,16,12.8
+Current position,125,Faculty — associate professor,14,11.2
+Current position,125,Faculty — full professor,21,16.8
+Current position,125,Faculty — assistant professor,1,0.8
+Current position,125,Staff scientist,1,0.8
+Current position,125,Senior staff scientist,10,8.0
+Current position,125,Other,36,28.8
+Years since completing PhD,122,Still in training / no PhD,26,21.3
+Years since completing PhD,122,0-2,11,9.0
+Years since completing PhD,122,3-5,11,9.0
+Years since completing PhD,122,6-10,18,14.8
+Years since completing PhD,122,11-20,19,15.6
+Years since completing PhD,122,More than 20,37,30.3
+Institution type,125,University / college,89,71.2
+Institution type,125,National laboratory,21,16.8
+Institution type,125,Independent research institute,10,8.0
+Institution type,125,Other,5,4.0
+Main physics subfield,122,Particle / high-energy physics,44,36.1
+Main physics subfield,122,Cosmology,33,27.0
+Main physics subfield,122,Astrophysics,13,10.7
+Main physics subfield,122,Condensed matter / materials,9,7.4
+Main physics subfield,122,Nuclear physics,7,5.7
+Main physics subfield,122,Biophysics,4,3.3
+Main physics subfield,122,Other,12,9.8
+Primary mode of work,122,Experimental,39,32.0
+Primary mode of work,122,Theory,37,30.3
+Primary mode of work,122,Computational,23,18.9
+Primary mode of work,122,Mixed / no single primary mode,23,18.9
+Doctoral students supervised,122,None (0),80,65.6
+Doctoral students supervised,122,1-2,20,16.4
+Doctoral students supervised,122,3-5,9,7.4
+Doctoral students supervised,122,6 or more,13,10.7
+Teaches or assesses formal courses,122,Regularly,19,15.6
+Teaches or assesses formal courses,122,Occasionally,40,32.8
+Teaches or assesses formal courses,122,No,63,51.6
+Typical research collaboration size,122,Solo,2,1.6
+Typical research collaboration size,122,Small group (fewer than 5 people),58,47.5
+Typical research collaboration size,122,Medium (5-30 people),23,18.9
+Typical research collaboration size,122,Large (more than 30 people),39,32.0

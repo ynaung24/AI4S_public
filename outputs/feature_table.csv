@@ -1,0 +1,63 @@
+Feature,valid n,Level,n,Handling in the models
+Gender,125,Man,106,reference level
+Gender,125,Woman,19,kept
+Gender,125,Non-binary,0,left out of the models
+Gender,125,Prefer not to say,0,left out of the models
+Mentor status,89,Mentor,47,reference level
+Mentor status,89,Mentee,42,kept
+Age band,125,Under 35,60,reference level
+Age band,125,35–44,20,kept
+Age band,125,45–54,16,kept
+Age band,125,55–64,12,kept
+Age band,125,65 or over,17,kept
+Years since PhD,122,In training / no PhD,26,reference level
+Years since PhD,122,0–2,11,kept
+Years since PhD,122,3–5,11,kept
+Years since PhD,122,6–10,18,kept
+Years since PhD,122,11–20,19,kept
+Years since PhD,122,More than 20,37,kept
+Institution type,125,University / college,89,reference level
+Institution type,125,National laboratory,21,kept
+Institution type,125,Independent research institute,10,merged into Other
+Institution type,125,Other,5,kept
+Research mode,122,Theory,37,reference level
+Research mode,122,Experimental,39,kept
+Research mode,122,Computational,23,kept
+Research mode,122,Mixed / no single primary mode,23,kept
+Subfield,122,Particle / high-energy,44,reference level
+Subfield,122,Cosmology,33,kept
+Subfield,122,Condensed matter / materials,9,merged into Other
+Subfield,122,Astrophysics,13,kept
+Subfield,122,Biophysics,4,merged into Other
+Subfield,122,Nuclear physics,7,merged into Other
+Subfield,122,"Atomic, molecular and optical",0,merged into Other
+Subfield,122,Other,12,kept
+Collaboration size,122,Small (< 5),58,reference level
+Collaboration size,122,Solo,2,left out of the models
+Collaboration size,122,Medium (5–30),23,kept
+Collaboration size,122,Large (> 30),39,kept
+Region of employment,125,Asia,67,reference level
+Region of employment,125,Europe,32,kept
+Region of employment,125,North America,22,kept
+Region of employment,125,Other,4,left out of the models
+AI usage status,122,Low,39,reference level
+AI usage status,122,Medium,42,kept
+AI usage status,122,High,31,kept
+AI usage status,122,Non-use,10,left out of the models
+Prior ML use,122,No,64,reference level
+Prior ML use,122,Yes,58,kept
+Students use AI,122,Most of them,96,reference level
+Students use AI,122,Some of them,19,kept
+Students use AI,122,I do not know,7,left out of the models
+Students use AI,122,None of them,0,left out of the models
+Institution AI policy,115,Yes,47,reference level
+Institution AI policy,115,No,29,kept
+Institution AI policy,115,I do not know,39,kept
+Asks to disclose AI,115,Never,11,reference level
+Asks to disclose AI,115,Sometimes,9,left out of the models
+Asks to disclose AI,115,Always,34,kept
+Asks to disclose AI,115,Not applicable,61,kept
+Asks to restrict AI,115,Never,32,reference level
+Asks to restrict AI,115,Sometimes,37,kept
+Asks to restrict AI,115,Always,0,left out of the models
+Asks to restrict AI,115,Not applicable,46,kept
